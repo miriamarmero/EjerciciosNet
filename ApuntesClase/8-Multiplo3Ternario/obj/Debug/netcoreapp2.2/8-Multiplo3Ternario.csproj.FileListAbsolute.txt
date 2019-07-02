@@ -1,0 +1,4 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\8-Multiplo3Ternario\obj\Debug\netcoreapp2.2\8-Multiplo3Ternario.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\8-Multiplo3Ternario\obj\Debug\netcoreapp2.2\8-Multiplo3Ternario.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\8-Multiplo3Ternario\obj\Debug\netcoreapp2.2\8-Multiplo3Ternario.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\8-Multiplo3Ternario\obj\Debug\netcoreapp2.2\8-Multiplo3Ternario.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\6-Operadores\bin\Debug\netcoreapp2.2\6-Operadores.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\6-Operadores\bin\Debug\netcoreapp2.2\6-Operadores.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\6-Operadores\bin\Debug\netcoreapp2.2\6-Operadores.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\6-Operadores\bin\Debug\netcoreapp2.2\6-Operadores.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\6-Operadores\bin\Debug\netcoreapp2.2\6-Operadores.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\6-Operadores\obj\Debug\netcoreapp2.2\6-Operadores.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\6-Operadores\obj\Debug\netcoreapp2.2\6-Operadores.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\6-Operadores\obj\Debug\netcoreapp2.2\6-Operadores.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\6-Operadores\obj\Debug\netcoreapp2.2\6-Operadores.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\6-Operadores\obj\Debug\netcoreapp2.2\6-Operadores.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\6-Operadores\obj\Debug\netcoreapp2.2\6-Operadores.pdb

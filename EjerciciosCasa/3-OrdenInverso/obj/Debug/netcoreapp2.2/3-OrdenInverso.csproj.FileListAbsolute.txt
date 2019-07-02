@@ -1,0 +1,4 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\3-OrdenInverso\obj\Debug\netcoreapp2.2\3-OrdenInverso.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\3-OrdenInverso\obj\Debug\netcoreapp2.2\3-OrdenInverso.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\3-OrdenInverso\obj\Debug\netcoreapp2.2\3-OrdenInverso.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\3-OrdenInverso\obj\Debug\netcoreapp2.2\3-OrdenInverso.AssemblyInfo.cs

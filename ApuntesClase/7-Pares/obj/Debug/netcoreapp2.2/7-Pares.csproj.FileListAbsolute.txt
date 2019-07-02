@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\7-Pares\bin\Debug\netcoreapp2.2\7-Pares.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\7-Pares\bin\Debug\netcoreapp2.2\7-Pares.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\7-Pares\bin\Debug\netcoreapp2.2\7-Pares.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\7-Pares\bin\Debug\netcoreapp2.2\7-Pares.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\7-Pares\bin\Debug\netcoreapp2.2\7-Pares.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\7-Pares\obj\Debug\netcoreapp2.2\7-Pares.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\7-Pares\obj\Debug\netcoreapp2.2\7-Pares.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\7-Pares\obj\Debug\netcoreapp2.2\7-Pares.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\7-Pares\obj\Debug\netcoreapp2.2\7-Pares.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\7-Pares\obj\Debug\netcoreapp2.2\7-Pares.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\7-Pares\obj\Debug\netcoreapp2.2\7-Pares.pdb

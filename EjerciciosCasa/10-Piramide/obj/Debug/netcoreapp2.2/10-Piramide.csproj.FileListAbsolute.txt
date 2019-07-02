@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\10-Piramide\bin\Debug\netcoreapp2.2\10-Piramide.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\10-Piramide\bin\Debug\netcoreapp2.2\10-Piramide.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\10-Piramide\bin\Debug\netcoreapp2.2\10-Piramide.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\10-Piramide\bin\Debug\netcoreapp2.2\10-Piramide.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\10-Piramide\bin\Debug\netcoreapp2.2\10-Piramide.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\10-Piramide\obj\Debug\netcoreapp2.2\10-Piramide.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\10-Piramide\obj\Debug\netcoreapp2.2\10-Piramide.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\10-Piramide\obj\Debug\netcoreapp2.2\10-Piramide.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\10-Piramide\obj\Debug\netcoreapp2.2\10-Piramide.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\10-Piramide\obj\Debug\netcoreapp2.2\10-Piramide.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\10-Piramide\obj\Debug\netcoreapp2.2\10-Piramide.pdb

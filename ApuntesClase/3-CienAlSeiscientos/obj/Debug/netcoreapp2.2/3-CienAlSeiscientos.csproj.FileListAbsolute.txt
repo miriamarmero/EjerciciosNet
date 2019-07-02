@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\3-CienAlSeiscientos\bin\Debug\netcoreapp2.2\3-CienAlSeiscientos.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\3-CienAlSeiscientos\bin\Debug\netcoreapp2.2\3-CienAlSeiscientos.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\3-CienAlSeiscientos\bin\Debug\netcoreapp2.2\3-CienAlSeiscientos.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\3-CienAlSeiscientos\bin\Debug\netcoreapp2.2\3-CienAlSeiscientos.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\3-CienAlSeiscientos\bin\Debug\netcoreapp2.2\3-CienAlSeiscientos.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\3-CienAlSeiscientos\obj\Debug\netcoreapp2.2\3-CienAlSeiscientos.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\3-CienAlSeiscientos\obj\Debug\netcoreapp2.2\3-CienAlSeiscientos.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\3-CienAlSeiscientos\obj\Debug\netcoreapp2.2\3-CienAlSeiscientos.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\3-CienAlSeiscientos\obj\Debug\netcoreapp2.2\3-CienAlSeiscientos.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\3-CienAlSeiscientos\obj\Debug\netcoreapp2.2\3-CienAlSeiscientos.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\3-CienAlSeiscientos\obj\Debug\netcoreapp2.2\3-CienAlSeiscientos.pdb

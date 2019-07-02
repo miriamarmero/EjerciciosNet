@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\1-Bisiesto\bin\Debug\netcoreapp2.2\1-Bisiesto.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\1-Bisiesto\bin\Debug\netcoreapp2.2\1-Bisiesto.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\1-Bisiesto\bin\Debug\netcoreapp2.2\1-Bisiesto.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\1-Bisiesto\bin\Debug\netcoreapp2.2\1-Bisiesto.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\1-Bisiesto\bin\Debug\netcoreapp2.2\1-Bisiesto.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\1-Bisiesto\obj\Debug\netcoreapp2.2\1-Bisiesto.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\1-Bisiesto\obj\Debug\netcoreapp2.2\1-Bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\1-Bisiesto\obj\Debug\netcoreapp2.2\1-Bisiesto.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\1-Bisiesto\obj\Debug\netcoreapp2.2\1-Bisiesto.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\1-Bisiesto\obj\Debug\netcoreapp2.2\1-Bisiesto.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\1-Bisiesto\obj\Debug\netcoreapp2.2\1-Bisiesto.pdb

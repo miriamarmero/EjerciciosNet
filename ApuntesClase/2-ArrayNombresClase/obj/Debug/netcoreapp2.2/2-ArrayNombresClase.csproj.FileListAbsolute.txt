@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\2-ArrayNombresClase\bin\Debug\netcoreapp2.2\2-ArrayNombresClase.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\2-ArrayNombresClase\bin\Debug\netcoreapp2.2\2-ArrayNombresClase.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\2-ArrayNombresClase\bin\Debug\netcoreapp2.2\2-ArrayNombresClase.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\2-ArrayNombresClase\bin\Debug\netcoreapp2.2\2-ArrayNombresClase.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\2-ArrayNombresClase\bin\Debug\netcoreapp2.2\2-ArrayNombresClase.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\2-ArrayNombresClase\obj\Debug\netcoreapp2.2\2-ArrayNombresClase.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\2-ArrayNombresClase\obj\Debug\netcoreapp2.2\2-ArrayNombresClase.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\2-ArrayNombresClase\obj\Debug\netcoreapp2.2\2-ArrayNombresClase.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\2-ArrayNombresClase\obj\Debug\netcoreapp2.2\2-ArrayNombresClase.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\2-ArrayNombresClase\obj\Debug\netcoreapp2.2\2-ArrayNombresClase.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\2-ArrayNombresClase\obj\Debug\netcoreapp2.2\2-ArrayNombresClase.pdb

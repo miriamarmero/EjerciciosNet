@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\10-EdadMayor18\bin\Debug\netcoreapp2.2\10-EdadMayor18.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\10-EdadMayor18\bin\Debug\netcoreapp2.2\10-EdadMayor18.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\10-EdadMayor18\bin\Debug\netcoreapp2.2\10-EdadMayor18.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\10-EdadMayor18\bin\Debug\netcoreapp2.2\10-EdadMayor18.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\10-EdadMayor18\bin\Debug\netcoreapp2.2\10-EdadMayor18.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\10-EdadMayor18\obj\Debug\netcoreapp2.2\10-EdadMayor18.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\10-EdadMayor18\obj\Debug\netcoreapp2.2\10-EdadMayor18.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\10-EdadMayor18\obj\Debug\netcoreapp2.2\10-EdadMayor18.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\10-EdadMayor18\obj\Debug\netcoreapp2.2\10-EdadMayor18.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\10-EdadMayor18\obj\Debug\netcoreapp2.2\10-EdadMayor18.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\10-EdadMayor18\obj\Debug\netcoreapp2.2\10-EdadMayor18.pdb

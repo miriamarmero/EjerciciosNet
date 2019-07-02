@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\2-NumeroRomanos\bin\Debug\netcoreapp2.2\2-NumeroRomanos.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\2-NumeroRomanos\bin\Debug\netcoreapp2.2\2-NumeroRomanos.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\2-NumeroRomanos\bin\Debug\netcoreapp2.2\2-NumeroRomanos.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\2-NumeroRomanos\bin\Debug\netcoreapp2.2\2-NumeroRomanos.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\2-NumeroRomanos\bin\Debug\netcoreapp2.2\2-NumeroRomanos.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\2-NumeroRomanos\obj\Debug\netcoreapp2.2\2-NumeroRomanos.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\2-NumeroRomanos\obj\Debug\netcoreapp2.2\2-NumeroRomanos.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\2-NumeroRomanos\obj\Debug\netcoreapp2.2\2-NumeroRomanos.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\2-NumeroRomanos\obj\Debug\netcoreapp2.2\2-NumeroRomanos.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\2-NumeroRomanos\obj\Debug\netcoreapp2.2\2-NumeroRomanos.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\2-NumeroRomanos\obj\Debug\netcoreapp2.2\2-NumeroRomanos.pdb

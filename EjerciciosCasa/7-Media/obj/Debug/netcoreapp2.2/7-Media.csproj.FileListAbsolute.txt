@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\7-Media\bin\Debug\netcoreapp2.2\7-Media.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\7-Media\bin\Debug\netcoreapp2.2\7-Media.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\7-Media\bin\Debug\netcoreapp2.2\7-Media.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\7-Media\bin\Debug\netcoreapp2.2\7-Media.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\7-Media\bin\Debug\netcoreapp2.2\7-Media.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\7-Media\obj\Debug\netcoreapp2.2\7-Media.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\7-Media\obj\Debug\netcoreapp2.2\7-Media.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\7-Media\obj\Debug\netcoreapp2.2\7-Media.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\7-Media\obj\Debug\netcoreapp2.2\7-Media.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\7-Media\obj\Debug\netcoreapp2.2\7-Media.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\7-Media\obj\Debug\netcoreapp2.2\7-Media.pdb

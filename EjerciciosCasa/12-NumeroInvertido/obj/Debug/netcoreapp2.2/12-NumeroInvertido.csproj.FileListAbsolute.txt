@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\12-NumeroInvertido\bin\Debug\netcoreapp2.2\12-NumeroInvertido.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\12-NumeroInvertido\bin\Debug\netcoreapp2.2\12-NumeroInvertido.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\12-NumeroInvertido\bin\Debug\netcoreapp2.2\12-NumeroInvertido.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\12-NumeroInvertido\bin\Debug\netcoreapp2.2\12-NumeroInvertido.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\12-NumeroInvertido\bin\Debug\netcoreapp2.2\12-NumeroInvertido.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\12-NumeroInvertido\obj\Debug\netcoreapp2.2\12-NumeroInvertido.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\12-NumeroInvertido\obj\Debug\netcoreapp2.2\12-NumeroInvertido.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\12-NumeroInvertido\obj\Debug\netcoreapp2.2\12-NumeroInvertido.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\12-NumeroInvertido\obj\Debug\netcoreapp2.2\12-NumeroInvertido.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\12-NumeroInvertido\obj\Debug\netcoreapp2.2\12-NumeroInvertido.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\12-NumeroInvertido\obj\Debug\netcoreapp2.2\12-NumeroInvertido.pdb

@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\9-If\bin\Debug\netcoreapp2.2\9-If.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\9-If\bin\Debug\netcoreapp2.2\9-If.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\9-If\bin\Debug\netcoreapp2.2\9-If.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\9-If\bin\Debug\netcoreapp2.2\9-If.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\9-If\bin\Debug\netcoreapp2.2\9-If.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\9-If\obj\Debug\netcoreapp2.2\9-If.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\9-If\obj\Debug\netcoreapp2.2\9-If.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\9-If\obj\Debug\netcoreapp2.2\9-If.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\9-If\obj\Debug\netcoreapp2.2\9-If.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\9-If\obj\Debug\netcoreapp2.2\9-If.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\9-If\obj\Debug\netcoreapp2.2\9-If.pdb
