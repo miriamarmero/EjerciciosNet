@@ -6,10 +6,10 @@ namespace _8_Multiplo3Ternario
     {
         static void Main(string[] args)
         {
-            int numero;
-            numero = Convert.ToInt32(Console.ReadLine());
-            numero % 3 == 0 ? "Es múltiplo de 3" : "NO es multiplo de 3";
-            Console.WriteLine(6 % 3);
+            for (int i = 0; i <= 30; i++)
+            {
+               Console.WriteLine (i + ((i % 3 == 0)? " Es multiplo de 3" : " NO es multiplo de 3"));
+            }
         }
     }
 }
