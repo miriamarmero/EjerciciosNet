@@ -1,5 +1,8 @@
 ﻿using System;
 
+/* 2º Actividad.
+Escriba un método que imprima la representación de su parámetro entero en números romanos. Por ejemplo, si el parámetro es 1998, la salida debe ser MCMXCVIII */
+
 namespace _2_NumeroRomanos
 {
     class Program

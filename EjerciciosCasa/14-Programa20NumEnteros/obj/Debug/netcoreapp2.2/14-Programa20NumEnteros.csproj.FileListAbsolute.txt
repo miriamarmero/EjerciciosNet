@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\14-Programa20NumEnteros\bin\Debug\netcoreapp2.2\14-Programa20NumEnteros.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\14-Programa20NumEnteros\bin\Debug\netcoreapp2.2\14-Programa20NumEnteros.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\14-Programa20NumEnteros\bin\Debug\netcoreapp2.2\14-Programa20NumEnteros.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\14-Programa20NumEnteros\bin\Debug\netcoreapp2.2\14-Programa20NumEnteros.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\14-Programa20NumEnteros\bin\Debug\netcoreapp2.2\14-Programa20NumEnteros.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\14-Programa20NumEnteros\obj\Debug\netcoreapp2.2\14-Programa20NumEnteros.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\14-Programa20NumEnteros\obj\Debug\netcoreapp2.2\14-Programa20NumEnteros.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\14-Programa20NumEnteros\obj\Debug\netcoreapp2.2\14-Programa20NumEnteros.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\14-Programa20NumEnteros\obj\Debug\netcoreapp2.2\14-Programa20NumEnteros.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\14-Programa20NumEnteros\obj\Debug\netcoreapp2.2\14-Programa20NumEnteros.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\14-Programa20NumEnteros\obj\Debug\netcoreapp2.2\14-Programa20NumEnteros.pdb

@@ -1,5 +1,8 @@
 ﻿using System;
 
+/* 7º Actividad.
+Escriba un programa que calcule la media de N numéro enteros introducidos. */
+
 namespace _7_Media
 {
     class Program

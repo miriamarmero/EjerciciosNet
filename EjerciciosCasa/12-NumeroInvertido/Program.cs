@@ -1,5 +1,8 @@
 ﻿using System;
 
+/* 12º Actividad.
+Cree un programa que invierta el número que se pide el usuario por ejemplo si el usuario introduce 4561 el programa debe devolver 1654 */
+
 namespace _12_NumeroInvertido
 {
     class Program

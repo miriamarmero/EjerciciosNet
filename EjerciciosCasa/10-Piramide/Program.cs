@@ -1,5 +1,8 @@
 ﻿using System;
 
+/* 10º Actividad.
+Cree un programa que dibuje en pantalla una pirámide a partir de una altura y un símbolo que se pedira al usuario. */
+
 namespace _10_Piramide
 {
     class Program

@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\4-KbConversionMb\obj\Debug\netcoreapp2.2\4-KbConversionMb.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\4-KbConversionMb\obj\Debug\netcoreapp2.2\4-KbConversionMb.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\4-KbConversionMb\obj\Debug\netcoreapp2.2\4-KbConversionMb.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\4-KbConversionMb\obj\Debug\netcoreapp2.2\4-KbConversionMb.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\4-KbConversionMb\bin\Debug\netcoreapp2.2\4-KbConversionMb.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\4-KbConversionMb\bin\Debug\netcoreapp2.2\4-KbConversionMb.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\4-KbConversionMb\bin\Debug\netcoreapp2.2\4-KbConversionMb.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\4-KbConversionMb\bin\Debug\netcoreapp2.2\4-KbConversionMb.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\4-KbConversionMb\bin\Debug\netcoreapp2.2\4-KbConversionMb.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\4-KbConversionMb\obj\Debug\netcoreapp2.2\4-KbConversionMb.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\4-KbConversionMb\obj\Debug\netcoreapp2.2\4-KbConversionMb.pdb

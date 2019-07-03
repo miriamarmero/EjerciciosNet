@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\6-TiempoCaida\bin\Debug\netcoreapp2.2\6-TiempoCaida.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\6-TiempoCaida\bin\Debug\netcoreapp2.2\6-TiempoCaida.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\6-TiempoCaida\bin\Debug\netcoreapp2.2\6-TiempoCaida.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\6-TiempoCaida\bin\Debug\netcoreapp2.2\6-TiempoCaida.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\6-TiempoCaida\bin\Debug\netcoreapp2.2\6-TiempoCaida.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\6-TiempoCaida\obj\Debug\netcoreapp2.2\6-TiempoCaida.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\6-TiempoCaida\obj\Debug\netcoreapp2.2\6-TiempoCaida.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\6-TiempoCaida\obj\Debug\netcoreapp2.2\6-TiempoCaida.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\6-TiempoCaida\obj\Debug\netcoreapp2.2\6-TiempoCaida.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\6-TiempoCaida\obj\Debug\netcoreapp2.2\6-TiempoCaida.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\6-TiempoCaida\obj\Debug\netcoreapp2.2\6-TiempoCaida.pdb

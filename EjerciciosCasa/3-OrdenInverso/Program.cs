@@ -1,5 +1,8 @@
 ﻿using System;
 
+/* 3º Actividad.
+Leer 10 datos numéricos y mostrarlos en orden inverso */
+
 namespace _3_OrdenInverso
 {
     class Program

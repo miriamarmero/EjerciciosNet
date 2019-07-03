@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\8-Fibonacci\bin\Debug\netcoreapp2.2\8-Fibonacci.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\8-Fibonacci\bin\Debug\netcoreapp2.2\8-Fibonacci.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\8-Fibonacci\bin\Debug\netcoreapp2.2\8-Fibonacci.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\8-Fibonacci\bin\Debug\netcoreapp2.2\8-Fibonacci.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\8-Fibonacci\bin\Debug\netcoreapp2.2\8-Fibonacci.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\8-Fibonacci\obj\Debug\netcoreapp2.2\8-Fibonacci.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\8-Fibonacci\obj\Debug\netcoreapp2.2\8-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\8-Fibonacci\obj\Debug\netcoreapp2.2\8-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\8-Fibonacci\obj\Debug\netcoreapp2.2\8-Fibonacci.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\8-Fibonacci\obj\Debug\netcoreapp2.2\8-Fibonacci.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\8-Fibonacci\obj\Debug\netcoreapp2.2\8-Fibonacci.pdb

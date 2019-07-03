@@ -1,5 +1,8 @@
 ﻿using System;
 
+/* 1º Actividad.
+Escriba un métodos estático que tome un año como parámetro y devuelva false si el año es bisiesto y true en caso contrario. */
+
 namespace _1_Bisiesto
 {
     class Program

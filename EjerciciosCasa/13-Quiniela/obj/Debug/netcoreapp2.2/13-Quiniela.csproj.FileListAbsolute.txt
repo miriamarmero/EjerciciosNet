@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\13-Quiniela\bin\Debug\netcoreapp2.2\13-Quiniela.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\13-Quiniela\bin\Debug\netcoreapp2.2\13-Quiniela.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\13-Quiniela\bin\Debug\netcoreapp2.2\13-Quiniela.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\13-Quiniela\bin\Debug\netcoreapp2.2\13-Quiniela.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\13-Quiniela\bin\Debug\netcoreapp2.2\13-Quiniela.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\13-Quiniela\obj\Debug\netcoreapp2.2\13-Quiniela.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\13-Quiniela\obj\Debug\netcoreapp2.2\13-Quiniela.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\13-Quiniela\obj\Debug\netcoreapp2.2\13-Quiniela.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\13-Quiniela\obj\Debug\netcoreapp2.2\13-Quiniela.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\13-Quiniela\obj\Debug\netcoreapp2.2\13-Quiniela.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\13-Quiniela\obj\Debug\netcoreapp2.2\13-Quiniela.pdb

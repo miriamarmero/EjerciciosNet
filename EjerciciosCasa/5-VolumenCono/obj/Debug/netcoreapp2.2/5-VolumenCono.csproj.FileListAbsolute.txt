@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\5-VolumenCono\bin\Debug\netcoreapp2.2\5-VolumenCono.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\5-VolumenCono\bin\Debug\netcoreapp2.2\5-VolumenCono.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\5-VolumenCono\bin\Debug\netcoreapp2.2\5-VolumenCono.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\5-VolumenCono\bin\Debug\netcoreapp2.2\5-VolumenCono.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\5-VolumenCono\bin\Debug\netcoreapp2.2\5-VolumenCono.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\5-VolumenCono\obj\Debug\netcoreapp2.2\5-VolumenCono.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\5-VolumenCono\obj\Debug\netcoreapp2.2\5-VolumenCono.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\5-VolumenCono\obj\Debug\netcoreapp2.2\5-VolumenCono.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\5-VolumenCono\obj\Debug\netcoreapp2.2\5-VolumenCono.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\5-VolumenCono\obj\Debug\netcoreapp2.2\5-VolumenCono.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\5-VolumenCono\obj\Debug\netcoreapp2.2\5-VolumenCono.pdb

@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\11-NumNegativosYPositivos\bin\Debug\netcoreapp2.2\11-NumNegativosYPositivos.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\11-NumNegativosYPositivos\bin\Debug\netcoreapp2.2\11-NumNegativosYPositivos.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\11-NumNegativosYPositivos\bin\Debug\netcoreapp2.2\11-NumNegativosYPositivos.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\11-NumNegativosYPositivos\bin\Debug\netcoreapp2.2\11-NumNegativosYPositivos.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\11-NumNegativosYPositivos\bin\Debug\netcoreapp2.2\11-NumNegativosYPositivos.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\11-NumNegativosYPositivos\obj\Debug\netcoreapp2.2\11-NumNegativosYPositivos.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\11-NumNegativosYPositivos\obj\Debug\netcoreapp2.2\11-NumNegativosYPositivos.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\11-NumNegativosYPositivos\obj\Debug\netcoreapp2.2\11-NumNegativosYPositivos.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\11-NumNegativosYPositivos\obj\Debug\netcoreapp2.2\11-NumNegativosYPositivos.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\11-NumNegativosYPositivos\obj\Debug\netcoreapp2.2\11-NumNegativosYPositivos.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\11-NumNegativosYPositivos\obj\Debug\netcoreapp2.2\11-NumNegativosYPositivos.pdb
