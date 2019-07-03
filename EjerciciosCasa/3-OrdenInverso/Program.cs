@@ -6,14 +6,14 @@ namespace _3_OrdenInverso
     {
         static void Main(string[] args)
         {
-            int Numeros;
-            Console.Write("Ingrese 10 datos numéricos:");
-            Numeros = int.Parse(Console.ReadLine());
-
-            Numeros.Reverse(Numeros);
-
-            Console.WriteLine("Numeros invertidos:\n");
-            Console.Write(Numeros);
+            if (args.Length != 10){
+                Console.WriteLine("Ingrese 10 datos numéricos: " + args.Length);
+            } else {
+                for (int i = 9; i >= 0; i--)
+                {
+                    System.Console.WriteLine(args[i]);
+                }
+            }
         }
     }
 }

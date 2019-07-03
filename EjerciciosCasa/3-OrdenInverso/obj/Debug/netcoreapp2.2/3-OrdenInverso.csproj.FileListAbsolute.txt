@@ -2,3 +2,10 @@ C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\3-OrdenInverso\o
 C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\3-OrdenInverso\obj\Debug\netcoreapp2.2\3-OrdenInverso.csproj.CoreCompileInputs.cache
 C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\3-OrdenInverso\obj\Debug\netcoreapp2.2\3-OrdenInverso.AssemblyInfoInputs.cache
 C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\3-OrdenInverso\obj\Debug\netcoreapp2.2\3-OrdenInverso.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\3-OrdenInverso\bin\Debug\netcoreapp2.2\3-OrdenInverso.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\3-OrdenInverso\bin\Debug\netcoreapp2.2\3-OrdenInverso.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\3-OrdenInverso\bin\Debug\netcoreapp2.2\3-OrdenInverso.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\3-OrdenInverso\bin\Debug\netcoreapp2.2\3-OrdenInverso.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\3-OrdenInverso\bin\Debug\netcoreapp2.2\3-OrdenInverso.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\3-OrdenInverso\obj\Debug\netcoreapp2.2\3-OrdenInverso.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\3-OrdenInverso\obj\Debug\netcoreapp2.2\3-OrdenInverso.pdb
