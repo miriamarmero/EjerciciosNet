@@ -20,24 +20,39 @@ namespace _2_NumeroRomanos
             Resto = Resto % 10;
             Unidades = Resto;
             Console.Write("En Número Romanos es : ");
+
             switch (Miles)
             {
-            case 1: Console.Write("M"); break;
-            case 2: Console.Write("MM"); break;
-            case 3: Console.Write("MMM"); break;
+            case 1: Console.Write("M"); 
+            break;
+            case 2: Console.Write("MM"); 
+            break;
+            case 3: Console.Write("MMM"); 
+            break;
             }
+
             switch (Centenas)
             {
-            case 1: Console.Write("C"); break;
-            case 2: Console.Write("CC"); break;
-            case 3: Console.Write("CCC"); break;
-            case 4: Console.Write("CD"); break;
-            case 5: Console.Write("D"); break;
-            case 6: Console.Write("DC"); break;
-            case 7: Console.Write("DCC"); break;
-            case 8: Console.Write("DCCC"); break;
-            case 9: Console.Write("CM"); break;
+            case 1: Console.Write("C"); 
+            break;
+            case 2: Console.Write("CC"); 
+            break;
+            case 3: Console.Write("CCC"); 
+            break;
+            case 4: Console.Write("CD"); 
+            break;
+            case 5: Console.Write("D"); 
+            break;
+            case 6: Console.Write("DC"); 
+            break;
+            case 7: Console.Write("DCC"); 
+            break;
+            case 8: Console.Write("DCCC"); 
+            break;
+            case 9: Console.Write("CM"); 
+            break;
             }
+
             switch (Decenas)
             {
             case 1: Console.Write("X");
@@ -59,17 +74,27 @@ namespace _2_NumeroRomanos
             case 9: Console.Write("XC");
             break;
             }
+            
             switch (Unidades)
             {
-            case 1: Console.Write("I"); break;
-            case 2: Console.Write("II"); break;
-            case 3: Console.Write("III"); break;
-            case 4: Console.Write("IV"); break;
-            case 5: Console.Write("V"); break;
-            case 6: Console.Write("VI"); break;
-            case 7: Console.Write("VII"); break;
-            case 8: Console.Write("VIII"); break;
-            case 9: Console.Write("IX"); break;
+            case 1: Console.Write("I"); 
+            break;
+            case 2: Console.Write("II"); 
+            break;
+            case 3: Console.Write("III"); 
+            break;
+            case 4: Console.Write("IV"); 
+            break;
+            case 5: Console.Write("V"); 
+            break;
+            case 6: Console.Write("VI"); 
+            break;
+            case 7: Console.Write("VII"); 
+            break;
+            case 8: Console.Write("VIII"); 
+            break;
+            case 9: Console.Write("IX"); 
+            break;
             }
         }
     }
