@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\12-Geometria\obj\Debug\netcoreapp2.2\12-Geometria.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\12-Geometria\obj\Debug\netcoreapp2.2\12-Geometria.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\12-Geometria\obj\Debug\netcoreapp2.2\12-Geometria.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\12-Geometria\obj\Debug\netcoreapp2.2\12-Geometria.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\12-Geometria\bin\Debug\netcoreapp2.2\12-Geometria.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\12-Geometria\bin\Debug\netcoreapp2.2\12-Geometria.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\12-Geometria\bin\Debug\netcoreapp2.2\12-Geometria.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\12-Geometria\bin\Debug\netcoreapp2.2\12-Geometria.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\12-Geometria\bin\Debug\netcoreapp2.2\12-Geometria.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\12-Geometria\obj\Debug\netcoreapp2.2\12-Geometria.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\12-Geometria\obj\Debug\netcoreapp2.2\12-Geometria.pdb
