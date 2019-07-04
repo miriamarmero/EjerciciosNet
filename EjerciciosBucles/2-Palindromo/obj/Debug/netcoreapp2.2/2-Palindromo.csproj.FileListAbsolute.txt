@@ -1,0 +1,11 @@
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\2-Palindromo\bin\Debug\netcoreapp2.2\2-Palindromo.deps.json
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\2-Palindromo\bin\Debug\netcoreapp2.2\2-Palindromo.runtimeconfig.json
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\2-Palindromo\bin\Debug\netcoreapp2.2\2-Palindromo.runtimeconfig.dev.json
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\2-Palindromo\bin\Debug\netcoreapp2.2\2-Palindromo.dll
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\2-Palindromo\bin\Debug\netcoreapp2.2\2-Palindromo.pdb
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\2-Palindromo\obj\Debug\netcoreapp2.2\2-Palindromo.csprojAssemblyReference.cache
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\2-Palindromo\obj\Debug\netcoreapp2.2\2-Palindromo.csproj.CoreCompileInputs.cache
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\2-Palindromo\obj\Debug\netcoreapp2.2\2-Palindromo.AssemblyInfoInputs.cache
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\2-Palindromo\obj\Debug\netcoreapp2.2\2-Palindromo.AssemblyInfo.cs
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\2-Palindromo\obj\Debug\netcoreapp2.2\2-Palindromo.dll
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\2-Palindromo\obj\Debug\netcoreapp2.2\2-Palindromo.pdb

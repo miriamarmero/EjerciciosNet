@@ -1,0 +1,11 @@
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\6-MediaNotas\bin\Debug\netcoreapp2.2\6-MediaNotas.deps.json
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\6-MediaNotas\bin\Debug\netcoreapp2.2\6-MediaNotas.runtimeconfig.json
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\6-MediaNotas\bin\Debug\netcoreapp2.2\6-MediaNotas.runtimeconfig.dev.json
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\6-MediaNotas\bin\Debug\netcoreapp2.2\6-MediaNotas.dll
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\6-MediaNotas\bin\Debug\netcoreapp2.2\6-MediaNotas.pdb
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\6-MediaNotas\obj\Debug\netcoreapp2.2\6-MediaNotas.csprojAssemblyReference.cache
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\6-MediaNotas\obj\Debug\netcoreapp2.2\6-MediaNotas.csproj.CoreCompileInputs.cache
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\6-MediaNotas\obj\Debug\netcoreapp2.2\6-MediaNotas.AssemblyInfoInputs.cache
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\6-MediaNotas\obj\Debug\netcoreapp2.2\6-MediaNotas.AssemblyInfo.cs
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\6-MediaNotas\obj\Debug\netcoreapp2.2\6-MediaNotas.dll
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\6-MediaNotas\obj\Debug\netcoreapp2.2\6-MediaNotas.pdb

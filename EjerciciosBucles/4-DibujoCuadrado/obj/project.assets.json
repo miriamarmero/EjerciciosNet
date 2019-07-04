@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Miriam Armero\\Desktop\\Net\\EjerciciosNet\\EjerciciosBucles\\1-PrimoONo\\1-PrimoONo.csproj",
-      "projectName": "1-PrimoONo",
-      "projectPath": "c:\\Users\\Miriam Armero\\Desktop\\Net\\EjerciciosNet\\EjerciciosBucles\\1-PrimoONo\\1-PrimoONo.csproj",
+      "projectUniqueName": "c:\\Users\\Miriam Armero\\Desktop\\Net\\EjerciciosNet\\EjerciciosBucles\\4-DibujoCuadrado\\4-DibujoCuadrado.csproj",
+      "projectName": "4-DibujoCuadrado",
+      "projectPath": "c:\\Users\\Miriam Armero\\Desktop\\Net\\EjerciciosNet\\EjerciciosBucles\\4-DibujoCuadrado\\4-DibujoCuadrado.csproj",
       "packagesPath": "C:\\Users\\Miriam Armero\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Miriam Armero\\Desktop\\Net\\EjerciciosNet\\EjerciciosBucles\\1-PrimoONo\\obj\\",
+      "outputPath": "c:\\Users\\Miriam Armero\\Desktop\\Net\\EjerciciosNet\\EjerciciosBucles\\4-DibujoCuadrado\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

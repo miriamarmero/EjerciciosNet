@@ -1,0 +1,11 @@
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\5-ArrayMayor18\bin\Debug\netcoreapp2.2\5-ArrayMayor18.deps.json
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\5-ArrayMayor18\bin\Debug\netcoreapp2.2\5-ArrayMayor18.runtimeconfig.json
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\5-ArrayMayor18\bin\Debug\netcoreapp2.2\5-ArrayMayor18.runtimeconfig.dev.json
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\5-ArrayMayor18\bin\Debug\netcoreapp2.2\5-ArrayMayor18.dll
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\5-ArrayMayor18\bin\Debug\netcoreapp2.2\5-ArrayMayor18.pdb
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\5-ArrayMayor18\obj\Debug\netcoreapp2.2\5-ArrayMayor18.csprojAssemblyReference.cache
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\5-ArrayMayor18\obj\Debug\netcoreapp2.2\5-ArrayMayor18.csproj.CoreCompileInputs.cache
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\5-ArrayMayor18\obj\Debug\netcoreapp2.2\5-ArrayMayor18.AssemblyInfoInputs.cache
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\5-ArrayMayor18\obj\Debug\netcoreapp2.2\5-ArrayMayor18.AssemblyInfo.cs
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\5-ArrayMayor18\obj\Debug\netcoreapp2.2\5-ArrayMayor18.dll
+c:\Users\Miriam Armero\Desktop\Net\EjerciciosNet\EjerciciosBucles\5-ArrayMayor18\obj\Debug\netcoreapp2.2\5-ArrayMayor18.pdb
