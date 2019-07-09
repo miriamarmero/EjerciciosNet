@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\14-Dictionary\bin\Debug\netcoreapp2.2\14-Dictionary.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\14-Dictionary\bin\Debug\netcoreapp2.2\14-Dictionary.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\14-Dictionary\bin\Debug\netcoreapp2.2\14-Dictionary.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\14-Dictionary\bin\Debug\netcoreapp2.2\14-Dictionary.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\14-Dictionary\bin\Debug\netcoreapp2.2\14-Dictionary.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\14-Dictionary\obj\Debug\netcoreapp2.2\14-Dictionary.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\14-Dictionary\obj\Debug\netcoreapp2.2\14-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\14-Dictionary\obj\Debug\netcoreapp2.2\14-Dictionary.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\14-Dictionary\obj\Debug\netcoreapp2.2\14-Dictionary.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\14-Dictionary\obj\Debug\netcoreapp2.2\14-Dictionary.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\ApuntesClase\14-Dictionary\obj\Debug\netcoreapp2.2\14-Dictionary.pdb

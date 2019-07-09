@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\GuardarArchivos\GuardarArchivos\bin\Debug\netcoreapp2.2\GuardarArchivos.deps.json
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\GuardarArchivos\GuardarArchivos\bin\Debug\netcoreapp2.2\GuardarArchivos.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\GuardarArchivos\GuardarArchivos\bin\Debug\netcoreapp2.2\GuardarArchivos.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\GuardarArchivos\GuardarArchivos\bin\Debug\netcoreapp2.2\GuardarArchivos.dll
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\GuardarArchivos\GuardarArchivos\bin\Debug\netcoreapp2.2\GuardarArchivos.pdb
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\GuardarArchivos\GuardarArchivos\obj\Debug\netcoreapp2.2\GuardarArchivos.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\GuardarArchivos\GuardarArchivos\obj\Debug\netcoreapp2.2\GuardarArchivos.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\GuardarArchivos\GuardarArchivos\obj\Debug\netcoreapp2.2\GuardarArchivos.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\GuardarArchivos\GuardarArchivos\obj\Debug\netcoreapp2.2\GuardarArchivos.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\GuardarArchivos\GuardarArchivos\obj\Debug\netcoreapp2.2\GuardarArchivos.dll
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\GuardarArchivos\GuardarArchivos\obj\Debug\netcoreapp2.2\GuardarArchivos.pdb

@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\13-Listas\13-Listas\13-Listas\bin\Debug\netcoreapp2.2\13-Listas.deps.json
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\13-Listas\13-Listas\13-Listas\bin\Debug\netcoreapp2.2\13-Listas.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\13-Listas\13-Listas\13-Listas\bin\Debug\netcoreapp2.2\13-Listas.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\13-Listas\13-Listas\13-Listas\bin\Debug\netcoreapp2.2\13-Listas.dll
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\13-Listas\13-Listas\13-Listas\bin\Debug\netcoreapp2.2\13-Listas.pdb
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\13-Listas\13-Listas\13-Listas\obj\Debug\netcoreapp2.2\13-Listas.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\13-Listas\13-Listas\13-Listas\obj\Debug\netcoreapp2.2\13-Listas.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\13-Listas\13-Listas\13-Listas\obj\Debug\netcoreapp2.2\13-Listas.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\13-Listas\13-Listas\13-Listas\obj\Debug\netcoreapp2.2\13-Listas.dll
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\13-Listas\13-Listas\13-Listas\obj\Debug\netcoreapp2.2\13-Listas.pdb
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\13-Listas\13-Listas\13-Listas\obj\Debug\netcoreapp2.2\13-Listas.csprojAssemblyReference.cache

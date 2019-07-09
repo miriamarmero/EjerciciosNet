@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\Dictionary-Opciones\Dictionary-Opciones\bin\Debug\netcoreapp2.2\Dictionary-Opciones.deps.json
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\Dictionary-Opciones\Dictionary-Opciones\bin\Debug\netcoreapp2.2\Dictionary-Opciones.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\Dictionary-Opciones\Dictionary-Opciones\bin\Debug\netcoreapp2.2\Dictionary-Opciones.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\Dictionary-Opciones\Dictionary-Opciones\bin\Debug\netcoreapp2.2\Dictionary-Opciones.dll
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\Dictionary-Opciones\Dictionary-Opciones\bin\Debug\netcoreapp2.2\Dictionary-Opciones.pdb
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\Dictionary-Opciones\Dictionary-Opciones\obj\Debug\netcoreapp2.2\Dictionary-Opciones.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\Dictionary-Opciones\Dictionary-Opciones\obj\Debug\netcoreapp2.2\Dictionary-Opciones.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\Dictionary-Opciones\Dictionary-Opciones\obj\Debug\netcoreapp2.2\Dictionary-Opciones.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\Dictionary-Opciones\Dictionary-Opciones\obj\Debug\netcoreapp2.2\Dictionary-Opciones.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\Dictionary-Opciones\Dictionary-Opciones\obj\Debug\netcoreapp2.2\Dictionary-Opciones.dll
+C:\Users\formacion.GTT\source\repos\EjerciciosNet\ApuntesClase\Dictionary-Opciones\Dictionary-Opciones\obj\Debug\netcoreapp2.2\Dictionary-Opciones.pdb

@@ -1,0 +1,14 @@
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\VideoJuegosApi\bin\Debug\netcoreapp2.2\VideoJuegosApi.deps.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\VideoJuegosApi\bin\Debug\netcoreapp2.2\VideoJuegosApi.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\VideoJuegosApi\bin\Debug\netcoreapp2.2\VideoJuegosApi.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\VideoJuegosApi\bin\Debug\netcoreapp2.2\VideoJuegosApi.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\VideoJuegosApi\bin\Debug\netcoreapp2.2\VideoJuegosApi.pdb
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\VideoJuegosApi\obj\Debug\netcoreapp2.2\VideoJuegosApi.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\VideoJuegosApi\obj\Debug\netcoreapp2.2\VideoJuegosApi.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\VideoJuegosApi\obj\Debug\netcoreapp2.2\VideoJuegosApi.RazorAssemblyInfo.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\VideoJuegosApi\obj\Debug\netcoreapp2.2\VideoJuegosApi.RazorAssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\VideoJuegosApi\obj\Debug\netcoreapp2.2\VideoJuegosApi.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\VideoJuegosApi\obj\Debug\netcoreapp2.2\VideoJuegosApi.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\VideoJuegosApi\obj\Debug\netcoreapp2.2\VideoJuegosApi.RazorTargetAssemblyInfo.cache
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\VideoJuegosApi\obj\Debug\netcoreapp2.2\VideoJuegosApi.dll
+C:\Users\formacion.GTT\Desktop\Net\EjerciciosNet\EjerciciosCasa\VideoJuegosApi\obj\Debug\netcoreapp2.2\VideoJuegosApi.pdb
